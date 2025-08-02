@@ -51,7 +51,7 @@ The **Founders’ Promise & American Renewal Act** (FPRA) establishes a national
 
 ## Current Draft
 
-- [Founders’ Promise & American Renewal Act (FPRA).pdf](./FPRA-draft-lucas-2025.pdf)
+- [Founders’ Promise & American Renewal Act (FPRA).pdf](./FPRA.pdf)
 
 ---
 
