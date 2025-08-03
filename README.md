@@ -61,9 +61,11 @@ The **Founders’ Promise & American Renewal Act** (FPRA) establishes a national
 
 ---
 
-## Part of the G5 Reform Portfolio
+****
 
-This act expands the [Gallegos-5 (G5) reform suite](https://github.com/Gallegos-5), a portfolio of next-generation, process-first federal acts to modernize U.S. governance for the AI era.
+## Part of the Future America Vision Portfolio
+
+This act is part of the [Future-America-Vision](https://github.com/Gallegos-5/Future-America-Vision) portfolio—a flagship stack of open, accountable, next-generation U.S. governance reforms for perpetual innovation.
 
 ---
 
