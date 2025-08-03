@@ -59,8 +59,6 @@ The **Founders’ Promise & American Renewal Act** (FPRA) establishes a national
 
 [Gallegos, Lucas. *Founders’ Promise & American Renewal Act (FPRA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16717394)
 
----
-
 ****
 
 ## Part of the Future America Vision Portfolio
