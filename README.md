@@ -59,12 +59,6 @@ The **Founders’ Promise & American Renewal Act** (FPRA) establishes a national
 
 [Gallegos, Lucas. *Founders’ Promise & American Renewal Act (FPRA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16717394)
 
-****
-
-## Part of the Future America Vision Portfolio
-
-This act is part of the [Future-America-Vision](https://github.com/Gallegos-5/Future-America-Vision) portfolio—a flagship stack of open, accountable, next-generation U.S. governance reforms for perpetual innovation.
-
 ---
 
 ## Attribution
@@ -75,17 +69,10 @@ Contact: g5policyteam@gmail.com
 
 ---
 
-**Join the conversation:**  
-[Discuss the G5 portfolio and this act here.](https://github.com/Gallegos-5/G5-Portfolio/discussions)
-
----
-
 ## Support This Project
 
-If you’d like to help fund open-source policy reform, you can tip the author:
-
+If you believe in this work and wish to support its continued stewardship and open development, you may do so here:
 **Venmo:** [@g5policy](https://venmo.com/g5policy)  
-*(Any amount helps keep public-interest policy moving forward!)*
 
 ---
 
